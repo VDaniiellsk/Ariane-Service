@@ -63,6 +63,7 @@ a#ImagemSuperior {
     font-weight: 500;
     text-transform: uppercase;
 }
+
 .Botoes:hover {
 	background-color: #413f3f;
 	box-shadow: 5px 5px 2px rgba(218, 215, 215, 0.2);
